@@ -14,8 +14,6 @@ Examples
 A size 3 diamond: 
 
  * 
-
 *** 
-
  *
 
